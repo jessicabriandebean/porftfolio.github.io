@@ -1,0 +1,37 @@
+
+## 📌 Challenges & Learnings
+- What went wrong
+- How you solved it
+- What you learned
+
+## 🔗 Links
+- GitHub repo
+- Live dashboard (if applicable)
+- Blog post / Medium article
+
+# 🧠 Customer Churn Prediction
+
+## 🔍 Overview
+This project predicts customer churn using a telecom dataset. It includes EDA, feature engineering, and machine learning modeling.
+
+## 📊 Dataset
+- Source: [Kaggle Telecom Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
+- Rows: 7,043
+- Features: Customer demographics, services, account info
+
+## 📈 EDA Highlights
+- Churn rate: ~26%
+- Key drivers: Contract type, tenure, monthly charges
+- Visuals: Histograms, boxplots, correlation heatmap
+
+## 🤖 Modeling
+- Algorithms: Logistic Regression, Random Forest, XGBoost
+- Metrics: Accuracy, ROC-AUC, F1-score
+- Best model: XGBoost with ROC-AUC of 0.85
+
+## 🧪 Technical Stack
+- Python, pandas, scikit-learn, matplotlib, seaborn, XGBoost
+- Jupyter Notebook for analysis
+- Scripts for model training and evaluation
+
+## 📁 File Structure
