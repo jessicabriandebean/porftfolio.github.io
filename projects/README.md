@@ -1,3 +1,5 @@
+## This is the template for each project
+
 # 📊 Project Title
 
 ## 🧩 Overview
