@@ -8,7 +8,7 @@ Welcome to my data science and analytics portfolio! Here you'll find projects in
 - 📊 [Exploratory Data Analysis](./eda)
 - 🤖 [Machine Learning](./machine_learning)
 - 🧠 [Natural Language Processing](./nlp)
-- 📈 [Data Visualization](./projects/Dashboards)
+- 📈 [Data Mining](./data_mining)
 
 Each project summary includes:
 - Dataset overview
