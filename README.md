@@ -5,9 +5,9 @@ These projects are examples of proprietary production. The steps and skills requ
 
 Welcome to my data science and analytics portfolio! Here you'll find projects in:
 
-- 📊 [Exploratory Data Analysis](./projects/DataMining)
-- 🤖 [Machine Learning](./projects/MachineLearning)
-- 🧠 [Natural Language Processing](./projects/NLP)
+- 📊 [Exploratory Data Analysis](./eda)
+- 🤖 [Machine Learning](./machine_learning)
+- 🧠 [Natural Language Processing](./nlp)
 - 📈 [Data Visualization](./projects/Dashboards)
 
 Each project summary includes:
